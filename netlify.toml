@@ -1,0 +1,9 @@
+[routes]
+
+/Carousel = "/Proyecto Html/Componentes/carousel/carousel.html"
+/Footer = "/Proyecto Html/Componentes/footer/footer.html"
+/Index = "/Proyecto Html/index.html"
+/Formulario = "/Proyecto Html/Paginas/Formulario/Formulario.html"
+/Tablas = "/Proyecto Html/Paginas/Tablas/Tablas.html"
+/Video = "/Proyecto Html/Paginas/Video/Video.html"
+/Principal = "/Paginas/Principal/Principal.css"
