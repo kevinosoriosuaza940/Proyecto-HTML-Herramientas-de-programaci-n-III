@@ -1,9 +1,9 @@
 [routes]
 
-/carousel = "/Componentes/carousel/carousel.html"
-/footer = "/Componentes/footer/footer.html"
-/index = "/index.html"
-/Formulario = "/Paginas/Formulario/Formulario.html"
-/Tablas = "/Paginas/Tablas/Tablas.html"
-/Video = "/Paginas/Video/Video.html"
-/Principal = "/Paginas/Principal/Principal.css
+/carousel = "Componentes/carousel/carousel.html"
+/footer = "Componentes/footer/footer.html"
+/index = "index.html"
+/Formulario = "Paginas/Formulario/Formulario.html"
+/Tablas = "Paginas/Tablas/Tablas.html"
+/Video = "Paginas/Video/Video.html"
+/Principal = "Paginas/Principal/Principal.css
