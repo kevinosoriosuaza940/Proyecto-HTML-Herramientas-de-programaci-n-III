@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+  }
+  
+  h1{
+    margin: 5%;
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  label{
+    color: white;
+  }
+article{
+    background-color:black;
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;  
+    margin: 20%;
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+  .footer{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+  }

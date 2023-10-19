@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+  }
+  
+  .article{
+    background-color:black;
+    height: 60vh;  
+
+  }
+  .footer{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+  }
+  .aside-lateral{
+    margin-top: 5%;
+  }
