@@ -1,9 +1,27 @@
-[routes]
+[[redirects]]
+  from = "/carousel"
+  to = "Componentes/carousel/carousel.html"
 
-/carousel = "Componentes/carousel/carousel.html"
-/footer = "Componentes/footer/footer.html"
-/index = "index.html"
-/Formulario = "Paginas/Formulario/Formulario.html"
-/Tablas = "Paginas/Tablas/Tablas.html"
-/Video = "Paginas/Video/Video.html"
-/Principal = "Paginas/Principal/Principal.css
+[[redirects]]
+  from = "/footer"
+  to = "Componentes/footer/footer.html"
+
+[[redirects]]
+  from = "/index"
+  to = "index.html"
+
+[[redirects]]
+  from = "/Formulario"
+  to = "Paginas/Formulario/Formulario.html"
+
+[[redirects]]
+  from = "/Tablas"
+  to = "Paginas/Tablas/Tablas.html"
+
+[[redirects]]
+  from = "/Video"
+  to = "Paginas/Video/Video.html"
+
+[[redirects]]
+  from = "/Principal"
+  to = "Paginas/Principal/Principal.css"
